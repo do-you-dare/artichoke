@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["TZ_NAMES","VERSION","VERSION_HASH"],"fn":["local_tz","raw_tz_by_name","tz_by_name"],"mod":["changelog","now","time_zone"]};
